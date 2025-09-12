@@ -1,12 +1,12 @@
-# Session ID - Session Title
+# CS160 - Hands-On with Selective Data Transfer: From SAP Solution Manager to SAP Cloud ALM
 
 ## Description
 
-This repository contains the material for the SAP TechEd 2025 session called Session ID - Session Title.  
+This repository contains the material for the SAP TechEd 2025 session called CS160 - Hands-On with Selective Data Transfer: From SAP Solution Manager to SAP Cloud ALM.  
 
 ## Overview
 
-This session introduces attendees to...
+This session introduces attendees to learn how to move selected content from SAP Solution Manager to SAP Cloud ALM using SAP’s Selective Data Transfer (SDT) tooling. With no prerequisites and a preconfigured environment provided by SAP, this session is ideal for both newcomers and experienced users looking to explore the end-to-end migration flow through guided exercises.
 
 ## Requirements
 

@@ -18,7 +18,7 @@ Provide the exercise content here directly in README.md using [markdown](https:/
 
 
 - [Exercise 1 - Explore SAP Activate methodology for Transition to SAP Cloud ALM & Transition portal page](exercises/Ex_RMV_Portal/RMV_1.md)
-- [Exercise 2 - Explore SAP Readiness Check for SAP Cloud ALM ](exercises/Ex_RC/RC - 2025-09-26_12-37-35.md)
+- [Exercise 2 - Explore SAP Readiness Check for SAP Cloud ALM ](exercises/Ex_RC/RC.md)
 
 
 ## tob deleted 

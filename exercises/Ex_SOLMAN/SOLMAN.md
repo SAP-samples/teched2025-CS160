@@ -1,4 +1,14 @@
+# Explore 
+Description: <br>
+In this exercise, participants will <br>
 
+Objective: <br>
+Build awareness of <br>
+
+Duration:  Minutes<br>
+
+# Step-by-Step Guide:
+### Click to open [SAP Solution Manager](https://solman.almdemo.com/sap/bc/ui5_ui5/ui2/ushell/shells/abap/Fiorilaunchpad.html?sap-theme=sap_corbu&Action-SolutionDocumentation&sap-client=001&sap-language=EN#Shell-home) and follow the steps below:<br>
 #### 1. Click on "User"<br>
 ![Image](Snagit_Step_Image001.png)<br>
 #### 2. Click on "Password"<br>

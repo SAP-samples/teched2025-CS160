@@ -1,6 +1,13 @@
-# Google Chrome
-Schulze, Axel | 41 steps | 6 minutes<br>
-26. September 2025<br>
+# Exercise 1: Explore 
+Description: <br>
+In this exercise, participants will <br>
+
+Objective: <br>
+Build awareness of <br>
+
+Duration:  Minutes<br>
+
+# Step-by-Step Guide:
 #### 1. Click on "Email or User Name"<br>
 ![Image](Snagit_Step_Image001.png)<br>
 #### 2. Click on "Password"<br>

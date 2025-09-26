@@ -1,6 +1,4 @@
-# Google Chrome
-Schulze, Axel | 32 steps | 4 minutes<br>
-26. September 2025<br>
+
 #### 1. Click on "User"<br>
 ![Image](Snagit_Step_Image001.png)<br>
 #### 2. Click on "Password"<br>

@@ -9,6 +9,7 @@ Build awareness of the SAP Activate methodology and available resources to plan 
 Duration: 5 Minutes<br>
 
 # Step-by-Step Guide:
+### Click to open [SAP Activate Roadmap Viewer](https://me.sap.com/roadmapviewer) and follow the steps below:<br>
 #### 1. Click on "Email, User ID or Login Name"<br>
 ![Image](Snagit_Step_Image001.png)<br>
 #### 2. Click here<br>

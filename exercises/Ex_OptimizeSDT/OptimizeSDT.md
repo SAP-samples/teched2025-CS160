@@ -1,8 +1,6 @@
 # Google Chrome
 Schulze, Axel | 13 steps | 2 minutes<br>
 26. September 2025<br>
-#### 1. Click here<br>
-![Image](Snagit_Step_Image001.png)<br>
 #### 2. Click here<br>
 ![Image](Snagit_Step_Image002.png)<br>
 #### 3. Click on "L Downloads"<br>

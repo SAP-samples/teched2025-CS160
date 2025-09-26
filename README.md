@@ -17,8 +17,8 @@ The requirements to follow the exercises in this repository are...
 Provide the exercise content here directly in README.md using [markdown](https://guides.github.com/features/mastering-markdown/) and linking to the specific exercise pages, below is an example.
 
 
-- [Exercise 1 - Explore SAP Activate methodology for Transition to SAP Cloud ALM & Transition portal page](exercises/Ex_RMV_Portal/)
-- [Exercise 2 - Explore SAP Readiness Check for SAP Cloud ALM ](exercises/Ex_RC/)
+- [Exercise 1 - Explore SAP Activate methodology for Transition to SAP Cloud ALM & Transition portal page](exercises/Ex_RMV_Portal/RMV_1.md)
+- [Exercise 2 - Explore SAP Readiness Check for SAP Cloud ALM ](exercises/Ex_RC/RC - 2025-09-26_12-37-35.md)
 
 
 ## tob deleted 

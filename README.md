@@ -22,6 +22,7 @@ Provide the exercise content here directly in README.md using [markdown](https:/
 - [Exercise 3 - Review and Scope Data in SAP Solution Manager ](exercises/Ex_SOLMAN/SOLMAN.md)
 - [Exercise 4 - Export Data via Selective Data Transfer ](exercises/Ex_SDT_Export/SDT_Export.md)
 - [Optional: Exercise 5 - Export Documents via Selective Data Transfer ](exercises/Ex_Doc_Export/Document_Export.md)
+- [Optional: Exercise 6 - Modify and Optimize Data locally ](exercises/Ex_OptimizeSDT/OptimizeSDT.md)
 
 
 ## tob deleted 

@@ -21,6 +21,7 @@ Provide the exercise content here directly in README.md using [markdown](https:/
 - [Exercise 2 - Explore SAP Readiness Check for SAP Cloud ALM ](exercises/Ex_RC/RC.md)
 - [Exercise 3 - Review and Scope Data in SAP Solution Manager ](exercises/Ex_SOLMAN/SOLMAN.md)
 - [Exercise 4 - Export Data via Selective Data Transfer ](exercises/Ex_SDT_Export/SDT_Export.md)
+- [Optional: Exercise 5 - Export Documents via Selective Data Transfer ](exercises/Ex_Doc_Export/Document_Export.md)
 
 
 ## tob deleted 

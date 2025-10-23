@@ -17,7 +17,8 @@ Link to
 
 Link to
 
-User: HO00Password: SDT\_to\_CALM
+User: HO00
+Password: SDT_to_CALM
 
 # Selective Data Transfer overview & introduction
 

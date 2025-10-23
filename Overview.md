@@ -34,19 +34,19 @@ As shown on the first slide, SDT combines:
 - The ability to adjust and enrich data during the transition, and
 - Guidance through SAP Activate, which provides a step-by-step transition roadmap.
 
-![Picture 1](Images/Picture 1.png)
+![Image1](Images/Picture1.png)
 
 On the second slide, you can see this process visualized:
 
 We start by scoping and preparing using the SAP Cloud ALM Readiness Check, then select and adjust the data from SAP Solution Manager, simulate and verify the import, and finally complete the migration into SAP Cloud ALM.
 
-![image2](Images/Picture 2.png)
+![image2](Images/Picture2.png)
 
 By the end of this hands-on, you’ll understand how each of these steps works in practice — and how SDT helps you make a clean, guided, and efficient move to SAP Cloud ALM.
 
 # Overview of Exercises
 
-![image3](Images/Picture 3.png)
+![image3](Images/Picture3.png)
 
 | **Exercise Title** | **Quick Description** |
 | --- | --- |

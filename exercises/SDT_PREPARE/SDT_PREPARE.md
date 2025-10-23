@@ -12,7 +12,7 @@ Credentials:
 
 Click link to open [SAP Cloud ALM](https://calm-test-eu10-004-relctestbeta-customer-11.test.eu10.alm.cloud.sap/launchpad#Launchpad-openFLPPage?pageId=BuildPage&spaceId=BuildSpace) and follow the steps below:
 
-User: HO00
+User: HO00 <br>
 Password: SDT_to_CALM
 
 Step-by-Step Guide:

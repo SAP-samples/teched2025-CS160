@@ -51,7 +51,7 @@ By the end of this hands-on, you’ll understand how each of these steps works i
 | **Exercise Title** | **Quick Description** |
 | --- | --- |
 | [Export Solution Documentation via SDT in SAP Solution Manager](exercises/SDT_Export/SDT_EXPORT.md) | Learn how to export selected Solution Documentation objects (processes, libraries, documents, test steps) from SAP Solution Manager using Selective Data Transfer (SDT). |
-| [Prepare SDT Upload in SAP Cloud ALM](exercise/SDT_PREPARE/SDT_PREPARE.md) | Configure your SAP Cloud ALM project, assign users and scopes, and review tag management to prepare for SDT import. |
+| [Prepare SDT Upload in SAP Cloud ALM](exercises/SDT_PREPARE/SDT_PREPARE.md) | Configure your SAP Cloud ALM project, assign users and scopes, and review tag management to prepare for SDT import. |
 | Execute SDT Step 1 – Process Hierarchy Upload | Upload the exported Process Hierarchy from SAP Solution Manager and verify the imported structure in SAP Cloud ALM. |
 | Execute SDT Step 2 – Library Upload | Import Configuration, Development, Application, Interface, and Solution Activity Libraries to re-establish technical references and process step relations. |
 | Execute SDT Step 3 – Process Content Upload and Scoping | Upload Solution Processes and Diagrams, then perform scoping to activate relevant content and ensure proper alignment to system groups. |

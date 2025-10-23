@@ -16,8 +16,8 @@ System Credentials:
 
 Click link to open [SAP Solution Manager 7.2](https://solman.almdemo.com/sap/bc/ui5_ui5/ui2/ushell/shells/abap/Fiorilaunchpad.html?sap-theme=sap_corbu&Action-SolutionDocumentation&sap-client=001&sap-language=EN#Shell-home) and follow the steps below:
 
-User: HO00P
-assword: SDT_to_CALM
+User: HO00
+Password: SDT_to_CALM
 
 Step-by-Step Guide:
 

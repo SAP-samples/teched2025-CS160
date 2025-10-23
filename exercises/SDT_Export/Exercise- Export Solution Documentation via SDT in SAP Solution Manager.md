@@ -2,6 +2,7 @@
 
 ![Image1](Images/image1.png)
 
+![image1](Images/image1.png)<br>
 Description:
 
 In this exercise, participants will practice exporting different Solution Documentation content from SAP Solution Manager via Selective Data Transfer transaction.

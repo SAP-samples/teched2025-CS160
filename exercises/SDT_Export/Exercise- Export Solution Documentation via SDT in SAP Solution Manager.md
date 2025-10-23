@@ -1,6 +1,6 @@
 # Exercise: Export Solution Documentation via SDT in SAP Solution Manager
 
-![image1](Images/image1.png)
+![Image1](Images/image1.png)
 
 Description:
 

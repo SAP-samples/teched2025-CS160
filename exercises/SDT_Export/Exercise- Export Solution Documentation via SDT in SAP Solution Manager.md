@@ -1,8 +1,7 @@
 # Exercise: Export Solution Documentation via SDT in SAP Solution Manager
 
-![Image1](Images/image1.png)
+![Image1](image1.png)
 
-![image1](Images/image1.png)<br>
 Description:
 
 In this exercise, participants will practice exporting different Solution Documentation content from SAP Solution Manager via Selective Data Transfer transaction.

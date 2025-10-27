@@ -85,3 +85,5 @@ Note: Verify that document references and testing assets remain accessible and c
 Summary:
 
 In this exercise, participants verified the results of the SDT upload in SAP Cloud ALM by checking the Process Hierarchy and the Solution Process Traceability Report. They learned how to:- Review imported processes and confirm proper hierarchy assignment.- Validate connections between processes, libraries, configurations, and applications.- Use the Solution Process Traceability Report to ensure end-to-end data integrity.Key takeaway: Verifying SDT results through the Process Hierarchy Assignment and Traceability Report ensures that business processes, technical components, and testing artifacts remain connected in SAP Cloud ALM, providing full traceability and transparency across the solution lifecycle.
+
+# Continue to next exercise - [(Optional) Explore Transition Methodology & Readiness Check](../SDT_RMV/SDT_RMV.md)

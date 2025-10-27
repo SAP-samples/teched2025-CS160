@@ -16,9 +16,9 @@ Duration: 5 minutes
 
 User: HO_SDT<br>
 Password: SDT_to_CALM
-
-
-
+<br>
+<br>
+<br>
 # Hint: For all following exercises in this hands-on session, a predefined demo file (HO_##.zip) (## = Student Number) is provided to each participant. The .zip file includes all relevant SDT files for this hands-on.
 # This ensures clear data separation between students, allowing everyone to perform the upload independently without conflicts or overwriting shared data.
 # Students should download their assigned ZIP-file and unpack before starting the exercise and use it in the following steps, e.g:
@@ -29,8 +29,9 @@ Password: SDT_to_CALM
 # - …
 
 # [Download Hands-on Demo files here locally and unpack afterwards](https://drive.google.com/drive/folders/1_VRyl9h9K9LwnbJSXc-JdZbKHlLBKj_A?usp=drive_link)
-
-
+<br>
+<br>
+<br>
 
 ## Step-by-Step Guide:
 

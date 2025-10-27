@@ -127,3 +127,5 @@ In this exercise, participants explored the Transition to SAP Cloud ALM roadmap.
 Key takeaway:
 
 The roadmap is the central guide for transition projects. It provides structure, context, and actionable content to plan and execute the move from SAP Solution Manager to SAP Cloud ALM.
+
+# Continue to next exercise - [Explore SAP Readiness Check for SAP Cloud ALM](../SDT_RC/SDT_RC.md)

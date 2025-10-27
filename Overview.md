@@ -17,7 +17,7 @@ Link to [SAP Solution Manager 7.2](https://solman.almdemo.com/sap/bc/ui5_ui5/ui2
 
 Link to [SAP Cloud ALM](https://calm-test-eu10-004-relctestbeta-customer-11.test.eu10.alm.cloud.sap/launchpad#Launchpad-openFLPPage?pageId=BuildPage&spaceId=BuildSpace)
 
-User: HO00 <br>
+User: HO_SDT <br>
 Password: SDT_to_CALM
 
 # Selective Data Transfer overview & introduction

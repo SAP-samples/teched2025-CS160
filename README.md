@@ -1,56 +1,60 @@
-# CS160 - Hands-On with Selective Data Transfer: From SAP Solution Manager to SAP Cloud ALM
-
-## Description
-
-This repository contains the material for the SAP TechEd 2025 session called CS160 - Hands-On with Selective Data Transfer: From SAP Solution Manager to SAP Cloud ALM.  
-
-## Overview
+# Hands-on Overview
 
 This session introduces attendees to learn how to move selected content from SAP Solution Manager to SAP Cloud ALM using SAP’s Selective Data Transfer (SDT) tooling. With no prerequisites and a preconfigured environment provided by SAP, this session is ideal for both newcomers and experienced users looking to explore the end-to-end migration flow through guided exercises.
 
-## Requirements
+# How this Hands-On Workshop Works
 
-The requirements to follow the exercises in this repository are...
+- Quick Intro: We’ll start with a short theory and setup to get you into the system fast.
+- Learning by Doing: Most of the time is for you to work on the exercises yourself.
+- Ask Anytime: You can ask questions throughout the session – we are here to help.
+- Small Steps: Exercises are split into easy-to-follow chunks with just enough context so you learn and understand, not just click through.
+- No Prep Needed: Everything is set up for you – just join and start.
+- Guided Support: Experts will be available during the whole session to support and guide you.
+- Latest Software: Exercises are based on current SAP GA releases.
+# System Credentials
 
-## Exercises
+Link to [SAP Solution Manager 7.2](https://solman.almdemo.com/sap/bc/ui5_ui5/ui2/ushell/shells/abap/Fiorilaunchpad.html?sap-theme=sap_corbu&Action-SolutionDocumentation&sap-client=001&sap-language=EN#Shell-home)
 
-Provide the exercise content here directly in README.md using [markdown](https://guides.github.com/features/mastering-markdown/) and linking to the specific exercise pages, below is an example.
+Link to [SAP Cloud ALM](https://calm-test-eu10-004-relctestbeta-customer-11.test.eu10.alm.cloud.sap/launchpad#Launchpad-openFLPPage?pageId=BuildPage&spaceId=BuildSpace)
 
+User: HO_SDT <br>
+Password: SDT_to_CALM
 
-- [Exercise 1 - Explore SAP Activate methodology for Transition to SAP Cloud ALM & Transition portal page](exercises/Ex_RMV_Portal/RMV_1.md)
-- [Exercise 2 - Explore SAP Readiness Check for SAP Cloud ALM ](exercises/Ex_RC/RC.md)
-- [Exercise 3 - Review and Scope Data in SAP Solution Manager ](exercises/Ex_SOLMAN/SOLMAN.md)
-- [Exercise 4 - Export Data via Selective Data Transfer ](exercises/Ex_SDT_Export/SDT_Export.md)
-- [Optional: Exercise 5 - Export Documents via Selective Data Transfer ](exercises/Ex_Doc_Export/Document_Export.md)
-- [Optional: Exercise 6 - Modify and Optimize Data locally ](exercises/OptimizeSDT/OptimizeSDT.md.md)
+# Selective Data Transfer overview & introduction
 
+“Let’s start with a quick overview of Selective Data Transfer (SDT).
 
-## tob deleted 
-    - [Getting Started](exercises/ex0/)
-    - [Exercise 1.1 - Exercise 1 Sub Exercise 1 Description](exercises/ex1#exercise-11-sub-exercise-1-description)
-    - [Exercise 1.2 - Exercise 1 Sub Exercise 2 Description](exercises/ex1#exercise-12-sub-exercise-2-description)
-- [Exercise 2 - Second Exercise Description](exercises/ex2/)
-    - [Exercise 2.1 - Exercise 2 Sub Exercise 1 Description](exercises/ex2#exercise-21-sub-exercise-1-description)
-    - [Exercise 2.2 - Exercise 2 Sub Exercise 2 Description](exercises/ex2#exercise-22-sub-exercise-2-description)
+SDT supports the migration of relevant content from SAP Solution Manager to SAP Cloud ALM — meaning you don’t need to rebuild everything from scratch.
 
-  
-**OR** Link to the Tutorial Navigator for example...
+The goal is to transfer only what’s meaningful for your current or future projects — keeping valuable documentation, processes, and test cases, while giving you the flexibility to redesign where needed.
 
-Start the exercises [here](https://developers.sap.com/tutorials/abap-environment-trial-onboarding.html).
+As shown on the first slide, SDT combines:
 
-**IMPORTANT**
+- A tailored scope of data you choose to move,
+- The ability to adjust and enrich data during the transition, and
+- Guidance through SAP Activate, which provides a step-by-step transition roadmap.
 
-Your repo must contain the .reuse and LICENSES folder and the License section below. DO NOT REMOVE the section or folders/files. Also, remove all unused template assets(images, folders, etc) from the exercises folder. 
+![Image1](Images/Picture1.png)
 
-## Contributing
-Please read the [CONTRIBUTING.md](./CONTRIBUTING.md) to understand the contribution guidelines.
+On the second slide, you can see this process visualized:
 
-## Code of Conduct
-Please read the [SAP Open Source Code of Conduct](https://github.com/SAP-samples/.github/blob/main/CODE_OF_CONDUCT.md).
+We start by scoping and preparing using the SAP Cloud ALM Readiness Check, then select and adjust the data from SAP Solution Manager, simulate and verify the import, and finally complete the migration into SAP Cloud ALM.
 
-## How to obtain support
+![image2](Images/Picture2.png)
 
-Support for the content in this repository is available during the actual time of the online session for which this content has been designed. Otherwise, you may request support via the [Issues](../../issues) tab.
+By the end of this hands-on, you’ll understand how each of these steps works in practice — and how SDT helps you make a clean, guided, and efficient move to SAP Cloud ALM.
 
-## License
-Copyright (c) 2024 SAP SE or an SAP affiliate company. All rights reserved. This project is licensed under the Apache Software License, version 2.0 except as noted otherwise in the [LICENSE](LICENSES/Apache-2.0.txt) file.
+# Overview of Exercises
+
+![image3](Images/Picture3.png)
+
+| **Exercise Title** | **Quick Description** |
+| --- | --- |
+| [Export Solution Documentation via SDT in SAP Solution Manager](exercises/SDT_Export/SDT_EXPORT.md) | Learn how to export selected Solution Documentation objects (processes, libraries, documents, test steps) from SAP Solution Manager using Selective Data Transfer (SDT). |
+| [Prepare SDT Upload in SAP Cloud ALM](exercises/SDT_PREPARE/SDT_PREPARE.md) | Configure your SAP Cloud ALM project, assign users and scopes, and review tag management to prepare for SDT import. |
+| [Execute SDT Step 1 – Process Hierarchy Upload](exercises/SDT_STEP1/SDT_STEP1.md) | Upload the exported Process Hierarchy from SAP Solution Manager and verify the imported structure in SAP Cloud ALM. |
+| [Execute SDT Step 2 – Library Upload](exercise/SDT_STEP2/SDT_STEP2.md) | Import Configuration, Development, Application, Interface, and Solution Activity Libraries to re-establish technical references and process step relations. |
+| [Execute SDT Step 3 – Process Content Upload and Scoping](exercise/SDT_STEP3/SDT_STEP3.md) | Upload Solution Processes and Diagrams, then perform scoping to activate relevant content and ensure proper alignment to system groups. |
+| [Execute SDT Step 4 – Process Elements Upload (Documents & Test Cases)](exercise/SDT_DOCS/SDT_DOCS.md) | Upload document metadata and test cases to SAP Cloud ALM, validating ownership, relations, and traceability. |
+| [Verify SDT Upload and Completion](exercise/SDT_DOCS/SDT_VERIFY_PHA.md) | Use Process Hierarchy and Solution Traceability Reports to confirm that all imported data and relationships are complete and consistent. |
+| [(Optional) Explore Transition Methodology & Readiness Check](exercise/SDT_RMV/SDT_RMV.md) | Review SAP Activate Roadmap and SAP Readiness Check to understand how SDT fits into the overall transition to SAP Cloud ALM. |

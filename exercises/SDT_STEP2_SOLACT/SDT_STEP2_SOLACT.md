@@ -1,12 +1,12 @@
 ## Upload of Solution Activity (Process Step) Library
 
-Description:
+## Description:
 
-## In this exercise, participants will upload the Solution Activity (Process Step) Library exported from SAP Solution Manager into SAP Cloud ALM. The Solution Activity (Process Step) Library contains reusable process steps that are linked to the Process Hierarchy and Libraries.
+In this exercise, participants will upload the Solution Activity (Process Step) Library exported from SAP Solution Manager into SAP Cloud ALM. The Solution Activity (Process Step) Library contains reusable process steps that are linked to the Process Hierarchy and Libraries.
 
-Objective:
+## Objective:
 
-## Understand how to upload the Solution Activity (Process Step) Library to SAP Cloud ALM, verify relations to process hierarchy nodes, configurations and applications.
+Understand how to upload the Solution Activity (Process Step) Library to SAP Cloud ALM, verify relations to process hierarchy nodes, configurations and applications.
 
 Duration:  5 minutes
 

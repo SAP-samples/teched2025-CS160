@@ -16,7 +16,7 @@ PW: Rctest9@
 
 Step-by-Step Guide:
 
-Click link to open  and follow the steps below:
+Click link to open [SAP Activate Roadmap Viewer](https://me.sap.com/roadmapviewer) and follow the steps below:
 
 1. Click on "Email, User ID or Login Name"
 

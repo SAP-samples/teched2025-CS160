@@ -14,11 +14,11 @@ Credentials:
 
 User: HO00
 
-Passwort: SDT\_to\_CALM
+Passwort: SDT_to_CALM
 
 Step-by-Step Guide:
 
-Click link to open  and follow the steps below:
+Click link to open [SAP Cloud ALM](https://calm-test-eu10-004-relctestbeta-customer-11.test.eu10.alm.cloud.sap/launchpad#Shell-home) and follow the steps below:
 
 1. Click on "Email or User Name" and
 

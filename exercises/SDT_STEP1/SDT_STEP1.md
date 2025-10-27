@@ -2,19 +2,19 @@
 
 ![image1](Images/image1.png)
 
-Description:
+## Description:
 
 In this exercise, participants will upload the exported Process Hierarchy from SAP Solution Manager into SAP Cloud ALM. This ensures that the business process structure from the source system becomes available in SAP Cloud ALM as part of the Selective Data Transfer (SDT).
 
-Objective:
+## Objective:
 
 Build understanding of how the Process Hierarchy export from SAP Solution Manager is uploaded into SAP Cloud ALM, how validation works, and how relationships to other entities (e.g., libraries, executables) are established during the import process.
 
 Duration: 5 minutes
 
-Credentials:
+## Credentials:
 
-User: HO00<br>
+User: HO_SDT<br>
 Password: SDT_to_CALM
 
 # Hint: For all following exercises in this hands-on session, a predefined demo file (HO_##.zip) (## = Student Number) is provided to each participant. The .zip file includes all relevant SDT files for this hands-on.
@@ -28,7 +28,7 @@ Password: SDT_to_CALM
 
 # [Download Hands-on Demo files here locally and unpack afterwards](https://drive.google.com/drive/folders/1_VRyl9h9K9LwnbJSXc-JdZbKHlLBKj_A?usp=drive_link)
 
-Step-by-Step Guide:
+## Step-by-Step Guide:
 
 1. 1. Click on tile "Process Hierarchy"
 ![image2](Images/image2.png)

@@ -1,6 +1,6 @@
 ## Perform Scoping in SAP Cloud ALM
 
-Description:
+## Description:
 
 In SAP Cloud ALM, scopes define which parts of the imported content from Selective Data Transfer (SDT) are included in the transition project.
 
@@ -11,18 +11,18 @@ Scopes help project team:
 - Control visibility so only scoped content appears in implementation and testing activities.
 In this exercise, participants will perform scoping in SAP Cloud ALM to define which processes and solution content are included in the transition project. Scoping helps to focus on the relevant subset of imported content from the Selective Data Transfer (SDT) process and ensures that only the selected scope is used for further configuration and testing activities.
 
-Objective:
+## Objective:
 
 Understand how Scopes in SAP Cloud ALM allow teams to activate and manage the imported SDT content selectively, ensuring efficient, focused, and well-structured project execution.
 
 Duration:
 
-Credentials:
+## Credentials:
 
-User: HO00<br>
-Password: SDT\_to\_CALM
+User: HO_SDT<br>
+Password: SDT_to_CALM
 
-Step-by-Step Guide:
+## Step-by-Step Guide:
 
 1. Click on tile "Processes"
 
@@ -141,3 +141,5 @@ Note: This shows the list of all upload diagrams from Solution Manager
 Summary:
 
 In this exercise, participants performed scoping in SAP Cloud ALM using the imported SDT content. They learned how to:- Identify and select the relevant SDT content.- Activate specific solution processes.- Validate that process hierarchy, applications, configurations, and developments are correctly linked within the scope.Key takeaway: Performing scoping in SAP Cloud ALM allows project teams to define a clear focus for their implementation, ensuring efficient use of transferred content and consistent project structure.
+
+# Continue to next exercise - [Execute SDT Step 4 – Process Elements Upload (Documents & Test Cases)](../SDT_DOCS/SDT_DOCS.md)

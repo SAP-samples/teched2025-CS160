@@ -2,20 +2,22 @@
 
 ![image1](Images/image1.png)
 
-Description: In this exercise, participants will prepare the SAP Cloud ALM environment to receive and organize the content exported from SAP Solution Manager via Selective Data Transfer (SDT). They will review project settings, assign responsibilities, configure scopes, and prepare tag management.
+## Description: 
+In this exercise, participants will prepare the SAP Cloud ALM environment to receive and organize the content exported from SAP Solution Manager via Selective Data Transfer (SDT). They will review project settings, assign responsibilities, configure scopes, and prepare tag management.
 
-Objective: Build awareness of how to configure and align SAP Cloud ALM after an SDT export, ensuring a structured setup for imported content, responsibilities, and system references.
+## Objective: 
+Build awareness of how to configure and align SAP Cloud ALM after an SDT export, ensuring a structured setup for imported content, responsibilities, and system references.
 
 Duration: 5 minutes
 
-Credentials:
+## Credentials:
 
 Click link to open [SAP Cloud ALM](https://calm-test-eu10-004-relctestbeta-customer-11.test.eu10.alm.cloud.sap/launchpad#Launchpad-openFLPPage?pageId=BuildPage&spaceId=BuildSpace) and follow the steps below:
 
-User: HO00 <br>
+User: HO_SDT <br>
 Password: SDT_to_CALM
 
-Step-by-Step Guide:
+## Step-by-Step Guide:
 
 - Click on launchpad group "Implementation"
 ![image2](Images/image2.png)
@@ -92,3 +94,5 @@ Note: New tag groups can be defined to mirror SAP Solution Manager attributes or
 Summary:
 
 In this exercise, participants prepared SAP Cloud ALM to manage content imported via Selective Data Transfer (SDT). They learned how to:- Access and review the imported project structure.- Verify general project settings and assign responsible users.- Configure scopes and link the correct system groups (e.g., S/4HANA).- Review user access and tag management to ensure consistency with attributes transferred from SAP Solution Manager.Key takeaway: Proper preparation of SAP Cloud ALM ensures that imported SDT content is well-structured, traceable, and ready for ongoing implementation and operations.
+
+# Continue to next exercise - [Execute SDT Step 1 – Process Hierarchy Upload](../SDT_STEP1/SDT_STEP1.md)

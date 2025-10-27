@@ -16,7 +16,7 @@ Duration: 10 minutes
 
 Click link to open [SAP Solution Manager 7.2](https://solman.almdemo.com/sap/bc/ui5_ui5/ui2/ushell/shells/abap/Fiorilaunchpad.html?sap-theme=sap_corbu&Action-SolutionDocumentation&sap-client=001&sap-language=EN#Shell-home) and follow the steps below:
 
-User: HO00 <br>
+User: HO_SDT <br>
 Password: SDT_to_CALM
 
 ## Step-by-Step Guide:

@@ -2,24 +2,24 @@
 
 ![Image1](image1.png)
 
-Description:
+## Description:
 
 In this exercise, participants will practice exporting different Solution Documentation content from SAP Solution Manager via Selective Data Transfer transaction.
 
-Objective:
+## Objective:
 
 Gain an understanding of how Selective Data Transfer (SDT) in SAP Solution Manager enables you to choose and export only relevant content—such as processes, libraries, or  test cases—ensuring a focused, lean, and efficient migration into SAP Cloud ALM.
 
 Duration: 10 minutes
 
-System Credentials:
+## System Credentials:
 
 Click link to open [SAP Solution Manager 7.2](https://solman.almdemo.com/sap/bc/ui5_ui5/ui2/ushell/shells/abap/Fiorilaunchpad.html?sap-theme=sap_corbu&Action-SolutionDocumentation&sap-client=001&sap-language=EN#Shell-home) and follow the steps below:
 
 User: HO00 <br>
 Password: SDT_to_CALM
 
-Step-by-Step Guide:
+## Step-by-Step Guide:
 
 1. Click on launchpad group "Transition to SAP Cloud ALM for Implementation"
 ![image2](image2.png)
@@ -297,3 +297,5 @@ In this exercise, participants practiced exporting different content objects fro
 - Include documents and mapping properties with preserved references.
 - Export test steps with attributes like priority.
 Key takeaway: Exporting from SAP Solution Manager prepares structured content packages that can be seamlessly imported into SAP Cloud ALM, ensuring processes, libraries, and test assets are migrated consistently with their attributes and references.
+
+# Continue to next exercise - [Prepare SDT Upload in SAP Cloud ALM](../SDT_PREPARE/SDT_PREPARE.md)

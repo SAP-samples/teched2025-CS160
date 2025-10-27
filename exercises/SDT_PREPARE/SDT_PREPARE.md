@@ -80,14 +80,6 @@ Note: Tags in SAP Cloud ALM represent attributes transferred from SAP Solution M
 
 Note: Review existing tag groups that have been created for our demo SDT import process.
 
-- Click on "Create Tag Group"
-![image17](Images/image17.png)
-
-Note: New tag groups can be defined to mirror SAP Solution Manager attributes or to introduce new classification logic for SAP Cloud ALM.
-
-- Click on "Save"
-![image18](Images/image18.png)
-
 - Click on “<” (Back)
 ![image19](Images/image19.png)
 

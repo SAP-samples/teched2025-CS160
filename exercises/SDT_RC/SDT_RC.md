@@ -1,22 +1,22 @@
 ## Explore SAP Readiness Check for SAP Cloud ALM
 
-Description:
+## Description:
 
 In this exercise, participants will explore the SAP Readiness Check for SAP Cloud ALM, navigate through different analysis areas, and understand how the tool provides insights into the current usage of SAP Solution Manager and the availability of capabilities in SAP Cloud ALM.
 
-Objective:
+## Objective:
 
 Build awareness of how the Readiness Check supports transition planning by identifying what is in use in SAP Solution Manager, how it maps to SAP Cloud ALM, and where Selective Data Transfer (SDT) can be applied.
 
 Duration: 15–20 minutes
 
-Credentials:
+## Credentials:
 
-User: HO00
+User: HO_SDT
 
 Passwort: SDT_to_CALM
 
-Step-by-Step Guide:
+## Step-by-Step Guide:
 
 Click link to open [SAP Cloud ALM](https://calm-test-eu10-004-relctestbeta-customer-11.test.eu10.alm.cloud.sap/launchpad#Shell-home) and follow the steps below:
 

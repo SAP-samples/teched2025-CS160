@@ -4,22 +4,22 @@
 
 ## Upload Solution Processes and Diagrams to SAP Cloud ALM
 
-Description:
+## Description:
 
 In this exercise, participants will upload the Solution Processes and Diagrams that were exported from SAP Solution Manager as part of the Selective Data Transfer (SDT). This step imports process definitions, process flows, and BPMN diagrams into SAP Cloud ALM, making the business process visualisation available for further use and refinement.
 
-Objective:
+## Objective:
 
 Learn how to upload processes and diagrams to SAP Cloud ALM, validate the import, and verify that the process structures and visual diagrams are correctly linked to the Process Hierarchy.
 
 Duration: 10 minutes
 
-Credentials:
+## Credentials:
 
-User: HO00<br>
-Password: SDT\_to\_CALM
+User: HO_SDT<br>
+Password: SDT_to_CALM
 
-Step-by-Step Guide:
+## Step-by-Step Guide:
 
 1. Click on tile "Process Authoring"
 

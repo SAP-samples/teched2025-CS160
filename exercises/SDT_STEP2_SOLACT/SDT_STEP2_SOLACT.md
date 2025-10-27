@@ -2,20 +2,20 @@
 
 Description:
 
-In this exercise, participants will upload the Solution Activity (Process Step) Library exported from SAP Solution Manager into SAP Cloud ALM. The Solution Activity (Process Step) Library contains reusable process steps that are linked to the Process Hierarchy and Libraries.
+## In this exercise, participants will upload the Solution Activity (Process Step) Library exported from SAP Solution Manager into SAP Cloud ALM. The Solution Activity (Process Step) Library contains reusable process steps that are linked to the Process Hierarchy and Libraries.
 
 Objective:
 
-Understand how to upload the Solution Activity (Process Step) Library to SAP Cloud ALM, verify relations to process hierarchy nodes, configurations and applications.
+## Understand how to upload the Solution Activity (Process Step) Library to SAP Cloud ALM, verify relations to process hierarchy nodes, configurations and applications.
 
 Duration:  5 minutes
 
-Credentials:
+## Credentials:
 
-User: HO00<br>
-Password: SDT\_to\_CALM
+User: HO_SDT<br>
+Password: SDT_to_CALM
 
-Step-by-Step Guide:
+## Step-by-Step Guide:
 
 1. Click on tile "Solution Activity"
 
@@ -88,3 +88,5 @@ Note: Note: Open a Solution Activity to verify the relation between the previous
 Summary:
 
 In this exercise, participants uploaded the Solution Activity (Process Step) Library exported from SAP Solution Manager into SAP Cloud ALM. They learned how to:- Use the Solution Activity app to manage elements.- Validate the upload and check for successful import.- Verify relations between various elements.Key takeaway: Uploading the Solution Activity (Process Step) Library ensures that all detailed process steps and their technical references from SAP Solution Manager are successfully re-established in SAP Cloud ALM, preserving end-to-end process traceability.
+
+# Continue to next exercise - [Execute SDT Step 3 – Process Content Upload and Scoping](../SDT_STEP3/SDT_STEP3.md)

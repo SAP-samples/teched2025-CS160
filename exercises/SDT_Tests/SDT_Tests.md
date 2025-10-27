@@ -1,21 +1,21 @@
 ## Test Case (Test Step) upload to SAP Cloud ALM
 
-Description:
+## Description:
 
 In this exercise, participants will upload the Test Steps exported from SAP Solution Manager into SAP Cloud ALM based on Selective Data Transfer (SDT) functionality. Test Steps define the detailed actions to be performed within a test and are linked to the corresponding processes or activities. This upload ensures that detailed testing information is retained after migration.
 
-Objective:
+## Objective:
 
 Learn how to upload Test Steps into SAP Cloud ALM, verify the upload results, and confirm that the test steps are correctly linked to their related processes in the system.
 
 Duration:
 
-Credentials:
+## Credentials:
 
-User: HO00<br>
+User: HO_SDT<br>
 Password: SDT_to_CALM
 
-Step-by-Step Guide:
+## Step-by-Step Guide:
 
 1. Click on tile "Test Preparation"
 
@@ -180,3 +180,5 @@ Note: If required you can log on to S4HANA via User: BAUERA, PW: Solman72
 Summary:
 
 In this exercise, participants uploaded the Test Steps exported from SAP Solution Manager into SAP Cloud ALM. They learned how to:- Perform an SDT upload for Test Steps.- Verify imported Test Steps in the SAP Cloud ALM Test Steps view.- Confirm relationships between Test Steps and their processes.- Use tags to identify uploaded Test Steps in multi-user environments.Key takeaway: Uploading Test Steps ensures that detailed testing instructions and process-specific actions from SAP Solution Manager are accurately migrated to SAP Cloud ALM, maintaining test readiness and traceability.
+
+# Continue to next exercise - [Verify SDT Upload and Completion](../SDT_VERIFY_PHA/SDT_VERIFY_PHA.md)

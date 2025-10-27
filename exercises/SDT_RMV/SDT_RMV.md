@@ -10,7 +10,9 @@ Objective:Build awareness of the SAP Activate methodology and available resource
 
 Duration: 5 Minutes
 
-Credentials:User: S0024237556PW: Rctest9@
+Credentials:<br>
+User: S0024237556<br>
+PW: Rctest9@
 
 Step-by-Step Guide:
 

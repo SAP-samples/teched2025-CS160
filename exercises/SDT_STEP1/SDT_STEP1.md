@@ -68,3 +68,5 @@ Note: Each student should upload their assigned file to ensure data isolation. (
 Summary:
 
 In this exercise, participants uploaded their assigned Process Hierarchy file exported from SAP Solution Manager into SAP Cloud ALM. They learned how to:- Import the Process Hierarchy file and review logs.- Validate imported structures and confirm data accuracy.Key takeaway: Understanding of how the process hierarchy is built and verified in SAP Cloud ALM.
+
+###[Continue with next Exercise](exercise/SDT_STEP2/SDT_STEP2.md)###

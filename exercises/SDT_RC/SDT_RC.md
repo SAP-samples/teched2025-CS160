@@ -215,3 +215,5 @@ Summary:In this exercise, participants explored the SAP Readiness Check for SAP 
 Key takeaway:
 
 The Readiness Check provides a transparent view of what can be migrated from SAP Solution Manager to SAP Cloud ALM using SDT, and helps project teams plan their transition based on actual usage, supported capabilities, and roadmap availability.
+
+# [Go back to Hands on Landing page](../Overview.md)

@@ -2,24 +2,24 @@
 
 ![image1](Images/image1.png)
 
-Description:
+## Description:
 
 In this exercise, participants will verify the results of the Selective Data Transfer (SDT) by reviewing imported entities and their relationships in the Process Hierarchy Assignment and by using the Solution Process Traceability Report. This verification ensures that all relevant links between processes, libraries, documents and test objects have been successfully maintained in SAP Cloud ALM after SDT.
 
-Objective:
+## Objective:
 
 Learn how to verify SDT results through the Process Hierarchy Assignment and Solution Process Traceability Report, confirming that end-to-end relationships between processes and related artifacts are intact and traceable.
 
 Duration:
 
-Credentials:
+## Credentials:
 
-User: HO00<br>
+User: HO_SDT<br>
 Password: SDT_to_CALM
 
 ## Process Hierarchy Assignment Report
 
-Step-by-Step Guide:
+## Step-by-Step Guide:
 
 1. Click on tile "Process Hierarchy Assignment Report"
 
@@ -160,3 +160,5 @@ Note: Ensure the process steps are correctly connected to technical systems, con
 34. Select “Implementation”
 
 ![image34](Images/image34.png)
+
+# Continue to next exercise - [Solution Traceability Report in SAP Cloud ALM](../SDT_VERIFY_STR/SDT_VERIFY_STR.md)

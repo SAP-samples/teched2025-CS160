@@ -271,4 +271,4 @@ Summary:
 
 In this exercise, participants uploaded various libraries (Configuration, Development, Executable, and Interface) from SAP Solution Manager into SAP Cloud ALM. They learned how to:- Access the Libraries area and navigate between different library views.- Upload the predefined SDT export files using SAP’s import templates.- Validate logs and confirm successful import.- Verify cross-references between library objects and process nodes.Key takeaway: Uploading libraries after the Process Hierarchy ensures that all reusable elements and references from SAP Solution Manager are correctly re-established in SAP Cloud ALM, forming the foundation for consistent process documentation and analysis.
 
-# Continue to [SDT Upload for Solution Activities](../SDT_STEP2/SDT_STEP2_SOLACT.md)
+# Continue to [SDT Upload for Solution Activities](../SDT_STEP2_SOLACT/SDT_STEP2_SOLACT.md)

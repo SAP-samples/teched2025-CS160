@@ -15,22 +15,22 @@ Only metadata is transferred to SAP Cloud ALM with links back to SAP Solution Ma
 - Option 3 – Transfer to SAP BTP Document Management System (DMS): Documents will be fully transferred and stored in SAP Cloud ALM’s integrated DMS. (On Roadmap for Q4 2025)
 For simplicity reason we use Option 1 for this demo.
 
-Description:
+## Description:
 
 In this exercise, participants will review how documents exported from SAP Solution Manager are uploaded and handled in SAP Cloud ALM as part of the Selective Data Transfer (SDT). They will explore document references, understand the available transfer options, and verify that the document links and metadata are correctly visible in SAP Cloud ALM after import.
 
-Objective:
+## Objective:
 
 Understand how document metadata and links are transferred during SDT, review the available transfer options, and validate that the corresponding document references are correctly associated with processes and solution elements in SAP Cloud ALM.
 
 Duration: 10 min.
 
-Credentials:
+## Credentials:
 
-User: HO00<br>
+User: HO_SDT<br>
 Password: SDT_to_CALM
 
-Step-by-Step Guide:
+## Step-by-Step Guide:
 
 1. Click on "Documents"
 
@@ -159,3 +159,5 @@ Summary:
 In this exercise, participants explored how documents are handled during Selective Data Transfer (SDT) from SAP Solution Manager to SAP Cloud ALM. They learned how to:- Understand and differentiate between the three document transfer options.
 
 - Upload document metadata and verify references in SAP Cloud ALM.- Check the correct linkage between documents and solution processes.Key takeaway: SDT ensures that document references and structures are preserved in SAP Cloud ALM, maintaining traceability while providing flexibility in how document files are managed (linked, stored, or re-uploaded).
+
+# Continue to next exercise - [Test Case (Test Step) upload to SAP Cloud ALM](../SDT_Tests/SDT_Tests.md)

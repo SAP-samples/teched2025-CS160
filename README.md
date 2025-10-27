@@ -22,7 +22,7 @@ Password: SDT_to_CALM
 
 # Selective Data Transfer overview & introduction
 
-“Let’s start with a quick overview of Selective Data Transfer (SDT).
+Let’s start with a quick overview of Selective Data Transfer (SDT).
 
 SDT supports the migration of relevant content from SAP Solution Manager to SAP Cloud ALM — meaning you don’t need to rebuild everything from scratch.
 

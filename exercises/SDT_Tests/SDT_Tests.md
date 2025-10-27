@@ -12,7 +12,8 @@ Duration:
 
 Credentials:
 
-User: HO00Password: SDT\_to\_CALM
+User: HO00<br>
+Password: SDT_to_CALM
 
 Step-by-Step Guide:
 

@@ -96,3 +96,5 @@ Note: Here you can confirm that the imported processes are properly related to t
 Summary:
 
 In this exercise, participants uploaded the Solution Processes and BPMN Diagrams exported from SAP Solution Manager into SAP Cloud ALM. They learned how to:- Use the Process Authoring app to import process content.- Upload ZIP files containing processes and diagrams.- Verify that processes are correctly linked to the Process Hierarchy.- Review imported BPMN diagrams for visual and structural accuracy.Key takeaway: Uploading processes and diagrams ensures that the business process structure and visualizations from SAP Solution Manager are re-established in SAP Cloud ALM, providing a consistent and complete transition for process documentation.
+
+# Continue to next exercise - [Perform Scoping in SAP Cloud ALM](../SDT_SCOPING/SDT_SCOPING.md)

@@ -4,20 +4,21 @@
 
 ## Upload of Configuration, Development, Application (Executable), Interface Library
 
-Description:
+## Description:
 
 In this exercise, participants will upload the exported library content from SAP Solution Manager into SAP Cloud ALM. This includes the Configuration, Development, Executable, and Interface Libraries that were previously exported as part of the Selective Data Transfer (SDT). These libraries contain relations, e.g. to Process Hierarchy.
 
-Objective:
+## Objective:
 
 Understand how to upload library content into SAP Cloud ALM after SDT export, validate successful import, and verify that library items and relations (e.g., to process nodes) are properly established.
 
 Duration: 10 minutes
 
-Credentials: User: HO00<br>
+## Credentials:<br> 
+User: HO_SDT<br>
 Password: SDT_to_CALM
 
-Step-by-Step Guide:
+## Step-by-Step Guide:
 
 - Click on tile "Libraries"
 ![image2](Images/image2.png)
@@ -269,3 +270,5 @@ This ensures that processes in SAP Cloud ALM remain linked to their correspondin
 Summary:
 
 In this exercise, participants uploaded various libraries (Configuration, Development, Executable, and Interface) from SAP Solution Manager into SAP Cloud ALM. They learned how to:- Access the Libraries area and navigate between different library views.- Upload the predefined SDT export files using SAP’s import templates.- Validate logs and confirm successful import.- Verify cross-references between library objects and process nodes.Key takeaway: Uploading libraries after the Process Hierarchy ensures that all reusable elements and references from SAP Solution Manager are correctly re-established in SAP Cloud ALM, forming the foundation for consistent process documentation and analysis.
+
+# Continue to [SDT Upload for Solution Activities](../SDT_STEP2/SDT_STEP2_SOLACT.md)

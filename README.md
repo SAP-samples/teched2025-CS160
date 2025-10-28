@@ -59,7 +59,8 @@ By the end of this hands-on, you’ll understand how each of these steps works i
 | [Verify SDT Upload and Completion](exercise/SDT_DOCS/SDT_VERIFY_PHA.md) | Use Process Hierarchy and Solution Traceability Reports to confirm that all imported data and relationships are complete and consistent. |
 | [(Optional) Explore Transition Methodology & Readiness Check](exercise/SDT_RMV/SDT_RMV.md) | Review SAP Activate Roadmap and SAP Readiness Check to understand how SDT fits into the overall transition to SAP Cloud ALM. |
 
-## Note: Each student get a number assigned which is used during exercise executionE.g.: (HO_##...) ( ## = Student Number)
+## Note: Each student get a number assigned which is used during exercise execution<br>
+e.g.: (HO_##...) ( ## = Student Number)
 
 ## You will execute this exercises top down. Please start with the first exercise in the table.
 

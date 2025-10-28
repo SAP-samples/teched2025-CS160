@@ -56,7 +56,7 @@ By the end of this hands-on, you’ll understand how each of these steps works i
 | [Execute SDT Step 2 – Library Upload](exercises/SDT_STEP2/SDT_STEP2.md) | Import Configuration, Development, Application, Interface, and Solution Activity Libraries to re-establish technical references and process step relations. |
 | [Execute SDT Step 3 – Process Content Upload and Scoping](exercises/SDT_STEP3/SDT_STEP3.md) | Upload Solution Processes and Diagrams, then perform scoping to activate relevant content and ensure proper alignment to system groups. |
 | [Execute SDT Step 4 – Process Elements Upload (Documents & Test Cases)](exercises/SDT_DOCS/SDT_DOCS.md) | Upload document metadata and test cases to SAP Cloud ALM, validating ownership, relations, and traceability. |
-| [Verify SDT Upload and Completion](exercises/SDT_DOCS/SDT_VERIFY_PHA.md) | Use Process Hierarchy and Solution Traceability Reports to confirm that all imported data and relationships are complete and consistent. |
+| [Verify SDT Upload and Completion](exercises/SDT_VERIFY_PHA/SDT_VERIFY_PHA.md) | Use Process Hierarchy and Solution Traceability Reports to confirm that all imported data and relationships are complete and consistent. |
 | [(Optional) Explore Transition Methodology & Readiness Check](exercises/SDT_RMV/SDT_RMV.md) | Review SAP Activate Roadmap and SAP Readiness Check to understand how SDT fits into the overall transition to SAP Cloud ALM. |
 
 ## Note: Each student get a number assigned which is used during exercise execution <br>

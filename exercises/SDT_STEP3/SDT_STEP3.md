@@ -23,77 +23,77 @@ Password: SDT_to_CALM
 
 1. Click on tile "Process Authoring"
 
-![image2](Images/image2.png)
+    ![image2](Images/image2.png)
 
-Note: The Process Authoring app in SAP Cloud ALM allows you to create, import, and manage business processes and diagrams.
+    Note: The Process Authoring app in SAP Cloud ALM allows you to create, import, and manage business processes and diagrams.
 
-2. Click on “Upload”
+1. Click on "Upload"
 
-![image3](Images/image3.png)
+    ![image3](Images/image3.png)
 
-3. Click on "Browse..."
+1. Click on "Browse..."
 
-![image4](Images/image4.png)
+    ![image4](Images/image4.png)
 
-Note: Each student should upload their assigned file to ensure data isolation. (HO\_##...) (## = Student Number). The ZIP file contains the exported BPMN diagrams and process structure from SAP Solution Manager. Ensure you select the correct file.
+    Note: Each student should upload their assigned file to ensure data isolation. (HO\_##...) (## = Student Number). The ZIP file contains the exported BPMN diagrams and process structure from SAP Solution Manager. Ensure you select the correct file.
 
-4. Select file "HO\_##\_Process\_and\_Diagram.zip" (## = Student Number).
+1. Select file "HO\_##\_Process\_and\_Diagram.zip" (## = Student Number).
 
-![image5](Images/image5.png)
+    ![image5](Images/image5.png)
 
-Note: The ZIP file contains the exported BPMN diagrams and process structure from SAP Solution Manager. Ensure you select the correct file.
+    Note: The ZIP file contains the exported BPMN diagrams and process structure from SAP Solution Manager. Ensure you select the correct file.
 
-5. Click on "Open"
+1. Click on "Open"
 
-![image6](Images/image6.png)
+    ![image6](Images/image6.png)
 
-8. Click on "Upload"
+1. Click on "Upload"
 
-![image7](Images/image7.png)
+    ![image7](Images/image7.png)
 
-9. Click on “Continue”
+1. Click on "Continue"
 
-![image8](Images/image8.png)
+    ![image8](Images/image8.png)
 
-11. Open filter for “Tags”
+1. Open filter for "Tags"
 
-![image9](Images/image9.png)
+    ![image9](Images/image9.png)
 
-Note: The demo Selective Data Transfer (SDT) files include a dedicated tag HO\_## (## = Student Number) to make it easier to identify and select your assigned content during the exercises. This tag helps ensure that each participant works only with their own dataset, maintaining clear data separation and simplifying filtering in SAP Cloud ALM after upload.
+    Note: The demo Selective Data Transfer (SDT) files include a dedicated tag HO\_## (## = Student Number) to make it easier to identify and select your assigned content during the exercises. This tag helps ensure that each participant works only with their own dataset, maintaining clear data separation and simplifying filtering in SAP Cloud ALM after upload.
 
-12. Select “Selective Data Transfer: HO\_## (## = Student Number)
+1. Select "Selective Data Transfer: HO\_## (## = Student Number)
 
-![image10](Images/image10.png)
+    ![image10](Images/image10.png)
 
-14. Click on "E2E\_OTC\_Sale-from-Stock (CHARM-Development)"
+1. Click on "E2E\_OTC\_Sale-from-Stock (CHARM-Development)"
 
-![image11](Images/image11.png)
+    ![image11](Images/image11.png)
 
-Note: Verify that processes have been successfully imported and that their BPMN diagrams are visible and functional.
+    Note: Verify that processes have been successfully imported and that their BPMN diagrams are visible and functional.
 
-15. Click on tab "Relations"
+1. Click on tab "Relations"
 
-![image12](Images/image12.png)
+    ![image12](Images/image12.png)
 
-16. Select "Process Hierarchy Nodes"
+1. Select "Process Hierarchy Nodes"
 
-![image13](Images/image13.png)
+    ![image13](Images/image13.png)
 
-Note: Here you can confirm that the imported processes are properly related to the corresponding Process Hierarchy Nodes. These relationships ensure process context is preserved after SDT.
+    Note: Here you can confirm that the imported processes are properly related to the corresponding Process Hierarchy Nodes. These relationships ensure process context is preserved after SDT.
 
-17. Click on tab "General Information"
+1. Click on tab "General Information"
 
-![image14](Images/image14.png)
+    ![image14](Images/image14.png)
 
-18. Click on down arrow next to application name ("Process Authoring")
+1. Click on down arrow next to application name ("Process Authoring")
 
-![image15](Images/image15.png)
+    ![image15](Images/image15.png)
 
-19. Select "Implementation"
+1. Select "Implementation"
 
-![image16](Images/image16.png)
+    ![image16](Images/image16.png)
 
-Summary:
+*Summary:*
 
 In this exercise, participants uploaded the Solution Processes and BPMN Diagrams exported from SAP Solution Manager into SAP Cloud ALM. They learned how to:- Use the Process Authoring app to import process content.- Upload ZIP files containing processes and diagrams.- Verify that processes are correctly linked to the Process Hierarchy.- Review imported BPMN diagrams for visual and structural accuracy.Key takeaway: Uploading processes and diagrams ensures that the business process structure and visualizations from SAP Solution Manager are re-established in SAP Cloud ALM, providing a consistent and complete transition for process documentation.
 

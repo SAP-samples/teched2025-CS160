@@ -35,51 +35,51 @@ Password: SDT_to_CALM
 
 ## Step-by-Step Guide:
 
-1. 1. Click on tile "Process Hierarchy"
-![image2](Images/image2.png)
-
-1. Click on “Upload”
-![image3](Images/image3.png)
-
-1. Click on "Browse…"
-![image4](Images/image4.png)
-
-Note: Each student should upload their assigned file to ensure data isolation. (HO\_##...) ( ## = Student Number)
-
-1. Click on "HO\_##\_Process\_Hierarchy.xlsx" ( ## = Student Number)
-![image5](Images/image5.png)
-
-1. Click on "Open"
-![image6](Images/image6.png)
+1. Click on tile "Process Hierarchy"
+    ![image2](Images/image2.png)
 
 1. Click on "Upload"
-![image7](Images/image7.png)
+    ![image3](Images/image3.png)
+
+1. Click on "Browse…"
+    ![image4](Images/image4.png)
+
+    Note:Each student should upload their assigned file to ensure data isolation. (HO\_##...) ( ## = Student Number)
+
+1. Click on "HO\_##\_Process\_Hierarchy.xlsx" ( ## = Student Number)
+    ![image5](Images/image5.png)
+
+1. Click on "Open"
+    ![image6](Images/image6.png)
+
+1. Click on "Upload"
+    ![image7](Images/image7.png)
 
 1. Click on "Continue"
-![image8](Images/image8.png)
+    ![image8](Images/image8.png)
 
 1. Expand process hierarchy node "HO\_00\_Business Processes"
-![image9](Images/image9.png)
+    ![image9](Images/image9.png)
 
 1. Expand process hierarchy node " (HO\_00) Corporate Solution"
-![image10](Images/image10.png)
+    ![image10](Images/image10.png)
 
-1. Expand process hierarchy node “A. End-to-End Processes"
-![image11](Images/image11.png)
+1. Expand process hierarchy node "A. End-to-End Processes"
+    ![image11](Images/image11.png)
 
 1. Expand process hierarchy node "HO-00 Libraries"
-![image12](Images/image12.png)
+    ![image12](Images/image12.png)
 
 1. Expand process hierarchy node "Executable Library"
-![image13](Images/image13.png)
+    ![image13](Images/image13.png)
 
 1. Expand process hierarchy node "SAHANA"
-![image14](Images/image14.png)
+    ![image14](Images/image14.png)
 
-1. 16. Expand process hierarchy node “SD"
-![image15](Images/image15.png)
+1. Expand process hierarchy node "SD"
+    ![image15](Images/image15.png)
 
-Summary:
+*Summary:*
 
 In this exercise, participants uploaded their assigned Process Hierarchy file exported from SAP Solution Manager into SAP Cloud ALM. They learned how to:- Import the Process Hierarchy file and review logs.- Validate imported structures and confirm data accuracy.Key takeaway: Understanding of how the process hierarchy is built and verified in SAP Cloud ALM.
 

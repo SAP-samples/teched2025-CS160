@@ -23,142 +23,142 @@ Password: SDT_to_CALM
 
 1. Click on tile "Process Hierarchy Assignment Report"
 
-![image2](Images/image2.png)
+    ![image2](Images/image2.png)
 
-Note: Open the Process Hierarchy Assignment Report to verify that all SDT-imported processes are visible and correctly structured.
+    Note: Open the Process Hierarchy Assignment Report to verify that all SDT-imported processes are visible and correctly structured.
 
-2. Click on “Select View”
+1. Click on "Select View"
 
-![image3](Images/image3.png)
+    ![image3](Images/image3.png)
 
-3. Select “Process Hierarchy View”
+1. Select "Process Hierarchy View"
 
-![image4](Images/image4.png)
+    ![image4](Images/image4.png)
 
-4. Click on “Collapse Entire Tree/Node”
+1. Click on "Collapse Entire Tree/Node"
 
-![image5](Images/image5.png)
+    ![image5](Images/image5.png)
 
-5. Select "Collapse Entire Tree"
+1. Select "Collapse Entire Tree"
 
-![image6](Images/image6.png)
+    ![image6](Images/image6.png)
 
-Note: Check that the process is assigned under the correct hierarchy node and matches the original SAP Solution Manager structure.
+    Note: Check that the process is assigned under the correct hierarchy node and matches the original SAP Solution Manager structure.
 
-6. Expand “HO\_##\_Business Processes”
+1. Expand "HO\_##\_Business Processes"
 
-![image7](Images/image7.png)
+    ![image7](Images/image7.png)
 
-7. Expand “(HO\_##) Corporate Solution”
+1. Expand "(HO\_##) Corporate Solution"
 
-![image8](Images/image8.png)
+    ![image8](Images/image8.png)
 
-8. Expand “A. End-to-End Processes”
+1. Expand "A. End-to-End Processes"
 
-![image9](Images/image9.png)
+    ![image9](Images/image9.png)
 
-9. Click on “A.3 E2E\_Order-to-Cash..”
+1. Click on "A.3 E2E\_Order-to-Cash.."
 
-![image10](Images/image10.png)
+    ![image10](Images/image10.png)
 
-10. Click on tab "Test Preparation"
+1. Click on tab "Test Preparation"
 
-![image11](Images/image11.png)
+    ![image11](Images/image11.png)
 
-Note: Validate that the links between test objects and their processes remain intact after SDT import.
+    Note: Validate that the links between test objects and their processes remain intact after SDT import.
 
-11. Collapse “HO\_##\_Business Processes)
+1. Collapse "HO\_##\_Business Processes
 
-![image12](Images/image12.png)
+    ![image12](Images/image12.png)
 
-12. Expand “HO\_##\_Libraries”
+1. Expand "HO\_##\_Libraries"
 
-![image13](Images/image13.png)
+    ![image13](Images/image13.png)
 
-13. Expand “Interface Library”
+1. Expand "Interface Library"
 
-![image14](Images/image14.png)
+    ![image14](Images/image14.png)
 
-14. Expand “Global Interfaces”
+1. Expand "Global Interfaces"
 
-![image15](Images/image15.png)
+    ![image15](Images/image15.png)
 
-15. Expand “B. By Function”
+1. Expand "B. By Function"
 
-![image16](Images/image16.png)
+    ![image16](Images/image16.png)
 
-16. Click on “08 Sales”
+1. Click on "08 Sales"
 
-![image17](Images/image17.png)
+    ![image17](Images/image17.png)
 
-18. Click on "Library" drop down
+1. Click on "Library" drop down
 
-![image18](Images/image18.png)
+    ![image18](Images/image18.png)
 
-19. Select "Interface"
+1. Select "Interface"
 
-![image19](Images/image19.png)
+    ![image19](Images/image19.png)
 
-Note: Ensure the process steps are correctly connected to technical systems, confirming full traceability between business and IT artifacts.
+    Note: Ensure the process steps are correctly connected to technical systems, confirming full traceability between business and IT artifacts.
 
-20. Collapse “Interface Library”
+1. Collapse "Interface Library"
 
-![image20](Images/image20.png)
+    ![image20](Images/image20.png)
 
-21. Expand “Executable Library”
+1. Expand "Executable Library"
 
-![image21](Images/image21.png)
+    ![image21](Images/image21.png)
 
-22. Expand “S4HANA”
+1. Expand "S4HANA"
 
-![image22](Images/image22.png)
+    ![image22](Images/image22.png)
 
-23. Expand “SD”
+1. Expand "SD"
 
-![image23](Images/image23.png)
+    ![image23](Images/image23.png)
 
-24. Click on “SD-SLS”
+1. Click on "SD-SLS"
 
-![image24](Images/image24.png)
+    ![image24](Images/image24.png)
 
-25. Click on “Library” drop down
+1. Click on "Library" drop down
 
-![image25](Images/image25.png)
+    ![image25](Images/image25.png)
 
-26. Select "Application"
+1. Select "Application"
 
-![image26](Images/image26.png)
+    ![image26](Images/image26.png)
 
-27. Collapse “Executable Library”
+1. Collapse "Executable Library"
 
-![image27](Images/image27.png)
+    ![image27](Images/image27.png)
 
-28. Expand “Configuration Library”
+1. Expand "Configuration Library"
 
-![image28](Images/image28.png)
+    ![image28](Images/image28.png)
 
-29. Expand “B. Authorisation”
+1. Expand "B. Authorisation"
 
-![image29](Images/image29.png)
+    ![image29](Images/image29.png)
 
-30. Click on “S4HANA Fiori Business Roles”
+1. Click on "S4HANA Fiori Business Roles"
 
-![image30](Images/image30.png)
+    ![image30](Images/image30.png)
 
-31. Click on “Library” drop down
+1. Click on "Library" drop down
 
-![image31](Images/image31.png)
+    ![image31](Images/image31.png)
 
-32. Select "Configuration"
+1. Select "Configuration"
 
-![image32](Images/image32.png)
+    ![image32](Images/image32.png)
 
-33. Click on down arrow next to application name (“Process Hierarchy Assignment”)
+1. Click on down arrow next to application name ("Process Hierarchy Assignment")
 
-![image33](Images/image33.png)
+    ![image33](Images/image33.png)
 
-34. Select “Implementation”
+1. Select "Implementation"
 
-![image34](Images/image34.png)
+    ![image34](Images/image34.png)
 
 # Continue to next exercise - [Solution Traceability Report in SAP Cloud ALM](../SDT_VERIFY_STR/SDT_VERIFY_STR.md)

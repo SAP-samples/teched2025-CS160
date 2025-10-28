@@ -34,127 +34,127 @@ Password: SDT_to_CALM
 
 1. Click on "Documents"
 
-![image2](Images/image2.png)
+    ![image2](Images/image2.png)
 
-Note: The Documents app in SAP Cloud ALM provides a central place to store, view, and manage project-related documentation.
+   Note: The Documents app in SAP Cloud ALM provides a central place to store, view, and manage project-related documentation.
 
-2. Open filter for “Project”
+1. Open filter for "Project"
 
-![image3](Images/image3.png)
+    ![image3](Images/image3.png)
 
-3. Select “Demo\_SDT\_Project”
+1. Select "Demo\_SDT\_Project"
 
-![image4](Images/image4.png)
+    ![image4](Images/image4.png)
 
-2. Click on "Upload"
+1. Click on "Upload"
 
-![image5](Images/image5.png)
+    ![image5](Images/image5.png)
 
-3. Open value list for “Scope”
+1. Open value list for "Scope"
 
-![image6](Images/image6.png)
+    ![image6](Images/image6.png)
 
-4. Select "Demo\_SDT\_Scope"
+1. Select "Demo\_SDT\_Scope"
 
-![image7](Images/image7.png)
+    ![image7](Images/image7.png)
 
-5. Click on "Browse…"
+1. Click on "Browse…"
 
-![image8](Images/image8.png)
+    ![image8](Images/image8.png)
 
-Note: Each student should upload their assigned file to ensure data isolation. (HO\_##...) (## = Student Number)
+   Note: Each student should upload their assigned file to ensure data isolation. (HO\_##...) (## = Student Number)
 
-7. Select file "HO\_##\_Documents.xlsx” (## = Student Number)
+1. Select file "HO\_##\_Documents.xlsx" (## = Student Number)
 
-![image9](Images/image9.png)
+    ![image9](Images/image9.png)
 
-8. Click on “Open”
+1. Click on "Open" 
 
-![image10](Images/image10.png)
+    ![image10](Images/image10.png)
 
-9. Click on "Upload"
+1. Click on "Upload"
 
-![image11](Images/image11.png)
+    ![image11](Images/image11.png)
 
-10. Click on "Continue"
+1. Click on "Continue"
 
-![image12](Images/image12.png)
+    ![image12](Images/image12.png)
 
-11. Open filter for “Tags”
+1. Open filter for "Tags"
 
-![image13](Images/image13.png)
+    ![image13](Images/image13.png)
 
-Note: The demo Selective Data Transfer (SDT) files include a dedicated tag HO\_## (## = Student Number) to make it easier to identify and select your assigned content during the exercises. This tag helps ensure that each participant works only with their own dataset, maintaining clear data separation and simplifying filtering in SAP Cloud ALM after upload.
+   Note: The demo Selective Data Transfer (SDT) files include a dedicated tag HO\_## (## = Student Number) to make it easier to identify and select your assigned content during the exercises. This tag helps ensure that each participant works only with their own dataset, maintaining clear data separation and simplifying filtering in SAP Cloud ALM after upload.
 
-12. Select “Selective Data Transfer: HO\_##” (## = Student Number)
+1. Select "Selective Data Transfer: HO\_##" (## = Student Number)
 
-![image14](Images/image14.png)
+    ![image14](Images/image14.png)
 
-13. Click on “E2E\_OTC\_Sale-from-Stock Direct Sales”
+1. Click on "E2E\_OTC\_Sale-from-Stock Direct Sales"
 
-![image15](Images/image15.png)
+    ![image15](Images/image15.png)
 
-14. Click on tab “Additional Information”
+1. Click on tab "Additional Information"
 
-![image16](Images/image16.png)
+    ![image16](Images/image16.png)
 
-Note: Check that the metadata (e.g. Title, External Reference) is visible and correctly linked to the document object.
+   Note: Check that the metadata (e.g. Title, External Reference) is visible and correctly linked to the document object.
 
-18. Click on tab "References"
+1. Click on tab "References"
 
-![image17](Images/image17.png)
+    ![image17](Images/image17.png)
 
-19. Click on "Relations" drop down
+1. Click on "Relations" drop down
 
-![image18](Images/image18.png)
+    ![image18](Images/image18.png)
 
-21. Select "Solution Processes"
+1. Select "Solution Processes"
 
-![image19](Images/image19.png)
+    ![image19](Images/image19.png)
 
-22. Click on “E2E\_OST Sales-from-Stock Direct sales” to navigate to the process
+1. Click on "E2E\_OST Sales-from-Stock Direct sales" to navigate to the process
 
-![image20](Images/image20.png)
+    ![image20](Images/image20.png)
 
-24. Click on the drop down
+1. Click on the drop down
 
-![image21](Images/image21.png)
+    ![image21](Images/image21.png)
 
-25. Click on "Documents"
+1. Click on "Documents"
 
-![image22](Images/image22.png)
+    ![image22](Images/image22.png)
 
-26. Click on "E2E OTC Sale-from-Stock Direct Sales" to navigate back to the document
+1. Click on "E2E OTC Sale-from-Stock Direct Sales" to navigate back to the document
 
-![image23](Images/image23.png)
+    ![image23](Images/image23.png)
 
-27. Click on "References"
+1. Click on "References"
 
-![image24](Images/image24.png)
+    ![image24](Images/image24.png)
 
-Note: This demonstrates that the reference points back to the original SAP Solution Manager location or external storage repository. Depending on the selected transfer option, links may point to SAP Solution Manager orexternal storage.
+   Note: This demonstrates that the reference points back to the original SAP Solution Manager location or external storage repository. Depending on the selected transfer option, links may point to SAP Solution Manager orexternal storage.
 
-28. Click on the URL
+1. Click on the URL
 
-![image25](Images/image25.png)
+    ![image25](Images/image25.png)
 
-29. Close the tab
+1. Close the tab
 
-![image26](Images/image26.png)
+    ![image26](Images/image26.png)
 
-30. Close the tab
+1. Close the tab
 
-![image27](Images/image27.png)
+    ![image27](Images/image27.png)
 
-31. Click on down arrow next to application name (“Documents”)
+1. Click on down arrow next to application name ("Documents")
 
-![image28](Images/image28.png)
+    ![image28](Images/image28.png)
 
-32. Select “Implementation”
+1. Select "Implementation"
 
-![image29](Images/image29.png)
+    ![image29](Images/image29.png)
 
-Summary:
+**Summary:**
 
 In this exercise, participants explored how documents are handled during Selective Data Transfer (SDT) from SAP Solution Manager to SAP Cloud ALM. They learned how to:- Understand and differentiate between the three document transfer options.
 

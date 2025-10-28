@@ -140,7 +140,7 @@ Note: You can save all settings as a custom view for better reuse option.
 1. Open value list for “Object Type”
 ![image34](image34.png)
 
-1. 35. Select "Executable Library"
+1. Select "Executable Library"
 ![image35](image35.png)
 
 1. Click on "OK" button in selection area

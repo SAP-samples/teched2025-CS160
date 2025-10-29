@@ -13,7 +13,7 @@ This session introduces attendees to learn how to move selected content from SAP
 - Latest Software: Exercises are based on current SAP GA releases.
 # System Credentials
 
-Link to [SAP Solution Manager 7.2](https://solman.almdemo.com/sap/bc/ui5_ui5/ui2/ushell/shells/abap/Fiorilaunchpad.html?sap-theme=sap_corbu&Action-SolutionDocumentation&sap-client=001&sap-language=EN#Shell-home)
+Link to [SAP Solution Manager 7.2](https://solman.almdemo.com/sap/bc/ui2/flp)
 
 Link to [SAP Cloud ALM](https://calm-test-eu10-004-relctestbeta-customer-11.test.eu10.alm.cloud.sap/launchpad#Launchpad-openFLPPage?pageId=BuildPage&spaceId=BuildSpace)
 

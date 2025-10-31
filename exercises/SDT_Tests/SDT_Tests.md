@@ -59,6 +59,8 @@ Password: SDT_to_CALM
 
     ![image10](Images/image10.png)
 
+   Note: If no Test Cases appear please refresh your browser session. 
+
 1. Open filter for "Tags"
 
     ![image11](Images/image11.png)

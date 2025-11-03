@@ -12,7 +12,7 @@ Duration: 5 minutes
 
 ## Credentials:
 
-Click link to open [SAP Cloud ALM](https://calm1.test1.eu101.0041.relctestbeta1.customer1.11.test.eu10.alm.cloud.sap/launchpad#Launchpad1.openFLPPage?pageId=BuildPage&spaceId=BuildSpace) and follow the steps below:
+Click link to open [SAP Cloud ALM](https://calm-test-eu10-004-relctestbeta-customer-11.test.eu10.alm.cloud.sap/launchpad#Launchpad-openFLPPage?pageId=HomePage&spaceId=HomeSpace) and follow the steps below:
 
 User: HO_SDT <br>
 Password: SDT_to_CALM
